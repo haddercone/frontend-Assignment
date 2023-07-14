@@ -5,7 +5,7 @@
     ```
 2. Go to directory:
     ```
-    cd frontend-assignment
+    cd frontend-Assignment
     ```
 
 3. Install dependencies:
